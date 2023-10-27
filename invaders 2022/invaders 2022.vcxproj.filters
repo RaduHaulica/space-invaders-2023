@@ -19,6 +19,9 @@
     <Filter Include="Resource Files\sounds">
       <UniqueIdentifier>{dc3e58d8-797e-42e8-912d-594116e8a079}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\media">
+      <UniqueIdentifier>{8af2fd17-e135-4a64-96a6-590c5ae241b8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source1.cpp">
@@ -185,6 +188,18 @@
     </Image>
     <Image Include="assets\graphics\victory.png">
       <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="media\space invaders boss.gif">
+      <Filter>Resource Files\media</Filter>
+    </Image>
+    <Image Include="media\space invaders boss.png">
+      <Filter>Resource Files\media</Filter>
+    </Image>
+    <Image Include="media\space invaders cover.png">
+      <Filter>Resource Files\media</Filter>
+    </Image>
+    <Image Include="media\space invaders main.gif">
+      <Filter>Resource Files\media</Filter>
     </Image>
   </ItemGroup>
 </Project>

@@ -78,6 +78,10 @@
     <Image Include="assets\graphics\start_button.png" />
     <Image Include="assets\graphics\start_button_selected.png" />
     <Image Include="assets\graphics\victory.png" />
+    <Image Include="media\space invaders boss.gif" />
+    <Image Include="media\space invaders boss.png" />
+    <Image Include="media\space invaders cover.png" />
+    <Image Include="media\space invaders main.gif" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
