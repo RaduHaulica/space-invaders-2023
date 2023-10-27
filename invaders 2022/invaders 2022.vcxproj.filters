@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\graphics">
+      <UniqueIdentifier>{c933bea2-dc92-4cdf-9ec7-59028eab83dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\sounds">
+      <UniqueIdentifier>{dc3e58d8-797e-42e8-912d-594116e8a079}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Roboto-Bold.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\sound\Common Fight.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\doom.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\explosionCrunch_000.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\explosionCrunch_001.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\explosionCrunch_002.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\explosionCrunch_003.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\explosionCrunch_004.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\forceField_000.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\impactMetal_000.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\jingles_HIT00.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\jingles_NES00.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\laserSmall_000.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\laserSmall_001.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\laserSmall_002.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\laserSmall_003.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\laserSmall_004.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\lowFrequency_explosion_000.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\lowFrequency_explosion_001.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\missiles.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\music.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+    <None Include="assets\sound\retro_platforming.ogg">
+      <Filter>Resource Files\sounds</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\graphics\background - Copy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\background.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\black.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\black2.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\defeat.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\enemyRed3.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\enemyRed5.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\exit_button.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\exit_button_selected.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\explosionblue01.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\explosionblue02.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\explosionblue03.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\explosionblue04.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\explosionSprite.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\laserBlue05.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\laserRed05.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\leftEngine.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\menu_background.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\missile.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\playerShip1_blue.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\powerup_fire.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\powerup_shield.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\rightEngine.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\score.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\score_animation.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\shield3.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\start_button.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\start_button_selected.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\victory.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
