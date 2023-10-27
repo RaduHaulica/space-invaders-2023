@@ -25,6 +25,7 @@
     <Font Include="Roboto-Bold.ttf" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\README.md" />
     <None Include="assets\sound\Common Fight.ogg" />
     <None Include="assets\sound\doom.ogg" />
     <None Include="assets\sound\explosionCrunch_000.ogg" />

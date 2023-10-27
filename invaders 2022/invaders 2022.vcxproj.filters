@@ -94,6 +94,9 @@
     <None Include="assets\sound\retro_platforming.ogg">
       <Filter>Resource Files\sounds</Filter>
     </None>
+    <None Include="..\README.md">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="assets\graphics\background - Copy.png">
